@@ -4,6 +4,7 @@ from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 
 st.title("🌸 Iris Flower Classification App")
+st.subheader("Tugas Sesi 14 : Mochamad Radmdhan Irawan")
 
 # Load and cache data
 @st.cache_data
